@@ -1,0 +1,21 @@
+[gd_scene format=3 uid="uid://ca1ea0c8nf8av"]
+
+[node name="Control" type="Panel"]
+offset_left = 240.0
+offset_top = 928.0
+offset_right = 488.0
+offset_bottom = 1044.0
+
+[node name="Button" type="Button" parent="."]
+offset_left = 24.0
+offset_top = 72.0
+offset_right = 221.0
+offset_bottom = 104.0
+text = "ok"
+
+[node name="TextEdit" type="TextEdit" parent="."]
+offset_left = 8.0
+offset_top = 8.0
+offset_right = 240.0
+offset_bottom = 56.0
+placeholder_text = "Enter your name"
