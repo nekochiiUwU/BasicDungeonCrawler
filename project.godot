@@ -13,6 +13,7 @@ config_version=5
 config/name="BasicDungeonCrawler"
 run/main_scene="uid://bk2s6o3slgwl3"
 config/features=PackedStringArray("4.4", "GL Compatibility")
+boot_splash/bg_color=Color(0.176471, 0.176471, 0.176471, 1)
 config/icon="uid://ctx6vuokt4si4"
 
 [display]
