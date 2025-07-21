@@ -100,7 +100,7 @@ func loot_item():
 				rolled_stats[stat] += randi_range(2,5)
 			if stat == "accuracy" or stat == "dodge":
 				rolled_stats[stat] += randi_range(1,5)
-			if stat == "dodge":
+			if stat == "cha_crit":
 				rolled_stats[stat] += randi_range(0,3)
 	show_stats(rolled_stats, player.items[type])
 	if type in artifact_list:

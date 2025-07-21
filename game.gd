@@ -67,7 +67,7 @@ func next_event():
 	if randi_range(1,10) + player.next <= 5:
 		fight.visible = true
 		fight.launch_fight()
-		player.next += 1
+		player.next += 1.5
 	else:
 		loot.visible = true
 		loot.loot_item()

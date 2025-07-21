@@ -1,4 +1,4 @@
-[gd_scene load_steps=3 format=3 uid="uid://cttcigow28t0c"]
+[gd_scene load_steps=3 format=3 uid="uid://cc0xb75glvb5e"]
 
 [ext_resource type="Script" uid="uid://w7kjnmw0h5k4" path="res://fight.gd" id="1_vdcff"]
 [ext_resource type="PackedScene" uid="uid://ciuhkq03lxe2v" path="res://StatsScreen.tscn" id="2_iqpu4"]
